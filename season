@@ -1,0 +1,67 @@
+{
+  "id": "seasons",
+  "title": "Why Do We Have Seasons?",
+  "description": "Teach Momo why summer is warm and winter is cold. Careful — this one fools a lot of grown-ups!",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Why is it warmer in summer than in winter?",
+      "key": "Because Earth's axis is tilted (~23.5°). In summer your hemisphere is tilted toward the sun, so sunlight hits more directly (higher sun angle, more concentrated energy) and days are longer. NOT because Earth is closer to the sun.",
+      "transfer": false
+    },
+    {
+      "id": "q2",
+      "text": "What is the tilt of the Earth's axis, roughly?",
+      "key": "About 23.5 degrees from vertical relative to its orbital plane.",
+      "transfer": false
+    },
+    {
+      "id": "q3",
+      "text": "Does the Earth's distance from the sun cause the seasons? Explain.",
+      "key": "No. Earth's orbit is nearly circular; distance varies only ~3%. In fact Earth is slightly CLOSER to the sun in early January (Northern Hemisphere winter). Seasons come from axial tilt, not distance.",
+      "transfer": false
+    },
+    {
+      "id": "q4",
+      "text": "Why are days longer in summer?",
+      "key": "The hemisphere tilted toward the sun spends more of each rotation in daylight, so the sun is up for more hours.",
+      "transfer": false
+    },
+    {
+      "id": "q5",
+      "text": "Why does sunlight feel stronger at midday in summer?",
+      "key": "The sun is higher in the sky, so light hits the ground more directly — the same energy is concentrated on a smaller area (and passes through less atmosphere).",
+      "transfer": false
+    },
+    {
+      "id": "q6",
+      "text": "What happens at the equator — does it have big seasons like London does? Why or why not?",
+      "key": "No large temperature seasons. Near the equator the sun stays high year-round regardless of tilt, so sunlight is always fairly direct; day length barely changes. (Wet/dry seasons exist but that's rainfall, not tilt-driven temperature swings.)",
+      "transfer": false
+    },
+    {
+      "id": "q7",
+      "text": "In which month is the Earth actually closest to the sun?",
+      "key": "Early January (perihelion) — during Northern Hemisphere winter, which is strong evidence that distance doesn't cause the seasons.",
+      "transfer": false
+    },
+    {
+      "id": "q8",
+      "text": "What does the tilt do to the sun's path across the sky between summer and winter?",
+      "key": "In summer the sun's path is higher and longer (rises earlier, sets later, higher at noon); in winter it is lower and shorter.",
+      "transfer": false
+    },
+    {
+      "id": "q9",
+      "text": "It's July, and it's summer in London. What season is it in Sydney, Australia — and why?",
+      "key": "Winter. The hemispheres are tilted opposite ways relative to the sun, so when the Northern Hemisphere leans toward the sun the Southern Hemisphere leans away. This is impossible to explain with the distance theory — if distance caused seasons, the whole planet would have summer at once.",
+      "transfer": true
+    },
+    {
+      "id": "q10",
+      "text": "Imagine the Earth's axis had NO tilt at all — it stood perfectly straight up. What would happen to the seasons?",
+      "key": "There would be essentially no seasons. Every place would get the same sun angle and ~12 hours of daylight all year; each latitude would have one constant climate. This tests whether the teacher taught the mechanism (tilt) rather than facts to memorize.",
+      "transfer": true
+    }
+  ]
+}
